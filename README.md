@@ -4,15 +4,15 @@ Imagine que você recebeu dados de coleta de um sonar posicionado em algum ponto
 
 O presente estudo busca trabalhar com classificação através de sinais deste sonar, de modo que temos as opções do sinal indicar uma rocha ou um cilindro de metal. Temos, para tanto, 60 parâmetros que são indicativos de qual tipo de objeto estamos trabalhando. Queremos, assim, responder algumas questões:
 
-\bullet Como se dá a distribuição de cada um destes parâmetros;
+1. Como se dá a distribuição de cada um destes parâmetros;
 
-$\bullet$ Existe(m) algum(ns) parâmetros com valores muito discrepantes dos demais?
+2. Existe(m) algum(ns) parâmetros com valores muito discrepantes dos demais?
 
-$\bullet$ Qual a correlação entre os parâmetros? Podemos ignorar algum ou alguns de modo que a classificação não sofra perdas de acurácia?
+3. Qual a correlação entre os parâmetros? Podemos ignorar algum ou alguns de modo que a classificação não sofra perdas de acurácia?
 
 E, por fim:
 
-$\bullet$ Dentre alguns métodos de classificação que iremos trabalhar (Support Vector Machine, Regressão Logística, Random Forest e Gradient Boosting), qual aquele que retorna melhor acurácia na classificação (rocha ou metal)?
+4. Dentre alguns métodos de classificação que iremos trabalhar (Support Vector Machine, Regressão Logística, Random Forest e Gradient Boosting), qual aquele que retorna melhor acurácia na classificação (rocha ou metal)?
 
 
 
